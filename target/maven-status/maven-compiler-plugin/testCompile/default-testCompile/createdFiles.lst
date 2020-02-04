@@ -1,0 +1,13 @@
+adactin\runner\Runner.class
+com\adactin\pom\Bookingpage.class
+com\adactln\helpers\Hooks.class
+com\adactin\pom\Loginpage.class
+com\adactln\helpers\PageObjectManager.class
+com\adactln\helpers\ConfigurationReader.class
+com\adactin\pom\Searchhotelpage.class
+com\adactln\helpers\FileReaderManager.class
+com\adactin\stepdefinition\AAStepdefinitionLogin.class
+com\adactin\stepdefinition\BBStepdefinitionHotelsearch.class
+com\adactin\stepdefinition\DDStepdefinitionpayment.class
+com\adactin\pom\Paymentpage.class
+com\adactin\stepdefinition\CCStepdefinitionbooking.class
